@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.1">
+	<Item id="86fff4ea-b0c9-4bcb-ae12-d41bb393dd81">
+		<Name>Деньги</Name>
+		<Code>000000005</Code>
+		<Description>Деньги</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="b4210c4e-f8e6-4d1e-951b-ee1a6671e191">
+		<Name>Друзья</Name>
+		<Code>000000008</Code>
+		<Description>Друзья</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="f28be1a9-7ca5-4eaa-9272-99af32dc4177">
+		<Name>Здоровье</Name>
+		<Code>000000007</Code>
+		<Description>Здоровье</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="87a643fa-28c6-4f07-97ea-87f730324ed2">
+		<Name>ЛичноеРазвитие</Name>
+		<Code>000000003</Code>
+		<Description>Личное развитие</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="288f6b8d-d0a4-4f29-a356-73b4ec25cb45">
+		<Name>Отдых</Name>
+		<Code>000000004</Code>
+		<Description>Отдых</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="532d3997-f436-48d2-bc62-098685723e8b">
+		<Name>РаботаБизнес</Name>
+		<Code>000000002</Code>
+		<Description>Работа бизнес</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="68f9b88c-bcbf-4c97-884b-a3fa150f9e0f">
+		<Name>Семья</Name>
+		<Code>000000001</Code>
+		<Description>Семья</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="47d9d766-0bd3-4915-b16f-91d134a741a7">
+		<Name>Хобби</Name>
+		<Code>000000006</Code>
+		<Description>Хобби</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+</PredefinedData>
